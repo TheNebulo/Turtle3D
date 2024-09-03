@@ -1,6 +1,6 @@
 # Turtle3D
 
-![Turtle3D Showcase GIF](https://i.ibb.co/xhMQTJ3/gif.gif)
+![Turtle3D Showcase GIF](https://raw.githubusercontent.com/TheNebulo/Turtle3D/main/showcase/gif.gif)
 
 A 3D engine in Turtle, because why not?
 
@@ -43,7 +43,7 @@ Examples of how to use Turtle3D can be found in `demo.py`.
 
 ## Contributing and Licensing
 
-![Turtle3D Showcase Cover](https://i.ibb.co/yn66X3t/cover.jpg)
+![Turtle3D Showcase Cover](https://raw.githubusercontent.com/TheNebulo/Turtle3D/main/showcase/cover.jpg)
 
 Feel free to contribute by creating a pull request or forking the repository.
 
